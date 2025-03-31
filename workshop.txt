@@ -1,5 +1,29 @@
 version=1
-title=Load Order Fix
+id=3455645697
+title=Mod Order Menu Crash Fix [B42.6]
+description=[h2][b]Fixes a crash that would occur when trying to open the mod order menu on a save which was missing a mod.[/b][/h2]
 description=
-tags=Build 42
+description=[h1][b]How to use :[/b][/h1]
+description=This mod only needs to be enable in the main menu to work.
+description=
+description=This mod is save compatible and can be removed whenever.
+description=
+description=[h1][b][u]Only for Build 42[/u][/b][/h1]
+description=
+description=[h1]Thank you[/h1]
+description=If you're enjoying this mod, please consider rating it and [b]check out my other mods[/b] !
+description=
+description=[img]https://imgur.com/lja52Fs.gif[/img]
+description=
+description=[table]
+description=    [tr]
+description=        [th][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3453580134]Right click to wear[/url][/th]
+description=    [/tr]
+description=    [tr]
+description=        [th][url=https://steamcommunity.com/sharedfiles/filedetails/?id=3453580134]
+description=            [img]https://images.steamusercontent.com/ugc/34446555863374365/9F5AE90D379FFAD58C81B840C0FA3A8A9E6CA141/?imw=268&imh=268&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=true.gif[/img]
+description=        [/url][/th]
+description=    [/tr]
+description=[/table]
+tags=Build 42;Misc
 visibility=public

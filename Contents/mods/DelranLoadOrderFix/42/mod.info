@@ -1,8 +1,9 @@
-name=Load Order Fix
-id=DelranLoadOrderFix
+name=Mod Order Crash Fix
+id=DelranModdOrderCrashFix
 modversion=1
 author=Delran
-description=
+description=Fixes a crash when trying to open the mod order menu on a save with a missing mod.
 poster=poster.png
 icon=poster.png
 versionMin=42.0.0
+versionMax=42.6.0
