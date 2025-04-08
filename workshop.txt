@@ -1,6 +1,6 @@
 version=1
 id=3455645697
-title=Mod Order Menu Crash Fix [B42.6]
+title=Mod Order Menu Crash Fix [B42.7]
 description=[h2][b]Fixes a crash that would occur when trying to open the mod order menu on a save which was missing a mod.[/b][/h2]
 description=
 description=[h1][b]How to use :[/b][/h1]
