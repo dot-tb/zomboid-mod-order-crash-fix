@@ -4,7 +4,7 @@ end
 function ModSelector.ModLoadOrderPanel:instantiate()
     local gameVersion = getGameVersion();
 
-    if gameVersion:match("^42%.[0-7]") then
+    if gameVersion:match("^42%.[0-9]") then
         ISPanelJoypad.instantiate(self)
         self.modList:clear()
         local modArray = self.model:getActiveMods():getMods()
